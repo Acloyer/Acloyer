@@ -1,4 +1,3 @@
-[ReadMe.md](https://github.com/user-attachments/files/21584374/ReadMe.md)
 # 💫 About Me:
 🔭 I’m currently working on Anima-AGI <br>🌱 I’m currently learning Machine learning 
 
