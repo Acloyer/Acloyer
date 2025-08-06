@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Anima-AGI <br>🌱 I’m currently learning Machine learning 
+🔭 I’m currently working on Anima-AGI, SA-TM, and Psi-TM <br>🌱 I’m currently learning Machine learning 
 
 
 ## 🌐 Socials:
