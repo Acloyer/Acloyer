@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Anima-AGI, SA-TM, and Psi-TM
+🔭 I’m currently working on Psi-TM
 
 
 ## 🌐 Socials: [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Acloyer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huseynzaderafig@gmail.com) 
