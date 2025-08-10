@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently developing Psi-TM (next stage of SA-TM) — a new computational model aimed at overcoming complexity theory barriers.  
+🔭 Currently developing Psi-TM (next stage of SA-TM) - a new computational model aimed at overcoming complexity theory barriers.  
 🎓 Computer Science student @ASU, focusing on AI and computational theory.  
 🌍 Plan to complete Psi-TM’s final version in **Baku** after ASU to advance local AI research.
 
